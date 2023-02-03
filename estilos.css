@@ -31,23 +31,24 @@ a:visited {
   
 #contenedor {
     margin:0 auto;
-    width:1000px;
+    width:100%;
+    height:100%;
 }
   
 #contenido {
     float:right;
     padding:10px;
-    height:530px;
-    width:824px;
+    height:90%;
+    width:80%;
     background-color: #ffe3e2;
 }
   
 #menu {
     float:left;
     background-color:rgb(121, 121, 121);
-    height:640px;
+    height:90%;
     padding:10px;
-    width:135px;
+    width:20%;
 }
   
 #pie { 
